@@ -14,6 +14,7 @@ class JenkinsSpringBootApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test case executed...");
+		logger.info("Test case executed 22222...");
 	}
 
 }
