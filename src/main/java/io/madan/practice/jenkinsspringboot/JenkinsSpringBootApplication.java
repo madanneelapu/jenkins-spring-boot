@@ -20,7 +20,7 @@ public class JenkinsSpringBootApplication {
 	@PostConstruct
 	public void init(){
 		logger.info("PostConstruct init method executed...");
-		logger.info("PostConstruct init method executed 2222...");
+		logger.info("PostConstruct init method executed TEAM CITY...");
 	}
 
 }
